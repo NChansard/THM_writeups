@@ -1,7 +1,7 @@
 <p align="center">
   THM : Basic Pentesting<br>
   Difficulty : Easy<br>
-  Room link : https://tryhackme.com/room/basicpentestingjt<br>
+  Room link : https://tryhackme.com/room/agentsudoctf<br>
 </p>
 
 ## Summary
