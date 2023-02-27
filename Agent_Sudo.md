@@ -119,7 +119,8 @@ WARNING: Extractor.execute failed to run external extractor 'jar xvf '%e'': [Err
 34820         0x8804          End of Zip archive, footer length: 22
 
 ```
-## Steganography
+
+## Steganography
 
 ```
 ┌──(root㉿kali)-[/home/nath/Desktop/_cutie.png.extracted]
